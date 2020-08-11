@@ -1,0 +1,13 @@
+C:\Users\mathg\source\repos\Birthdays\Birthdays\bin\Debug\netcoreapp3.1\Birthdays.exe
+C:\Users\mathg\source\repos\Birthdays\Birthdays\bin\Debug\netcoreapp3.1\Birthdays.deps.json
+C:\Users\mathg\source\repos\Birthdays\Birthdays\bin\Debug\netcoreapp3.1\Birthdays.runtimeconfig.json
+C:\Users\mathg\source\repos\Birthdays\Birthdays\bin\Debug\netcoreapp3.1\Birthdays.runtimeconfig.dev.json
+C:\Users\mathg\source\repos\Birthdays\Birthdays\bin\Debug\netcoreapp3.1\Birthdays.dll
+C:\Users\mathg\source\repos\Birthdays\Birthdays\bin\Debug\netcoreapp3.1\Birthdays.pdb
+C:\Users\mathg\source\repos\Birthdays\Birthdays\obj\Debug\netcoreapp3.1\Birthdays.csprojAssemblyReference.cache
+C:\Users\mathg\source\repos\Birthdays\Birthdays\obj\Debug\netcoreapp3.1\Birthdays.AssemblyInfoInputs.cache
+C:\Users\mathg\source\repos\Birthdays\Birthdays\obj\Debug\netcoreapp3.1\Birthdays.AssemblyInfo.cs
+C:\Users\mathg\source\repos\Birthdays\Birthdays\obj\Debug\netcoreapp3.1\Birthdays.csproj.CoreCompileInputs.cache
+C:\Users\mathg\source\repos\Birthdays\Birthdays\obj\Debug\netcoreapp3.1\Birthdays.dll
+C:\Users\mathg\source\repos\Birthdays\Birthdays\obj\Debug\netcoreapp3.1\Birthdays.pdb
+C:\Users\mathg\source\repos\Birthdays\Birthdays\obj\Debug\netcoreapp3.1\Birthdays.genruntimeconfig.cache
