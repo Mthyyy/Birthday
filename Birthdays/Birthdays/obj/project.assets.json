@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathg\\source\\repos\\Birthdays\\Birthdays\\Birthdays.csproj",
+      "projectUniqueName": "C:\\Users\\mathg\\source\\repos\\Birthdays\\Birthday\\Birthdays\\Birthdays\\Birthdays.csproj",
       "projectName": "Birthdays",
-      "projectPath": "C:\\Users\\mathg\\source\\repos\\Birthdays\\Birthdays\\Birthdays.csproj",
+      "projectPath": "C:\\Users\\mathg\\source\\repos\\Birthdays\\Birthday\\Birthdays\\Birthdays\\Birthdays.csproj",
       "packagesPath": "C:\\Users\\mathg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathg\\source\\repos\\Birthdays\\Birthdays\\obj\\",
+      "outputPath": "C:\\Users\\mathg\\source\\repos\\Birthdays\\Birthday\\Birthdays\\Birthdays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mathg\\AppData\\Roaming\\NuGet\\NuGet.Config",

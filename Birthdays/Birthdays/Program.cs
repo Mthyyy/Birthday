@@ -1,16 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 
 namespace Birthdays
 {
     class Program
     {
+        void BindToRunningProcesses()
+        {
+            Process currentProcess = Process.GetCurrentProcess();
+        }
         static void Main(string[] args)
         {
             List<string> dates = new List<string>();
             string choix;
-            string fullPath = @"C:\Users\mathg\Documents\DatesDeFetes.txt";
+            string fullPath = Path.GetDirectoryName(Process.GetCurrentProcess().MainModule.FileName) + @"\DatesDeFetes.txt";
+            Console.WriteLine(fullPath);
 
             if(File.Exists(fullPath))
             {
@@ -25,6 +31,11 @@ namespace Birthdays
 
                     fileR.Close();
                 }
+            }
+
+            else
+            {
+                Console.WriteLine("allo");
             }
             
 
